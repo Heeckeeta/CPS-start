@@ -85,6 +85,8 @@
 
 .sidebar__navigation{
     width: 200px;
+    height: 40px;
+    display: flex;
     margin-bottom: 16px;
 }
 
